@@ -37,13 +37,13 @@ public class WheelOfFateApplication {
 		engineers.add(new Engineer("Matthew", "Dorrian", "Senior Software Engineer"));
 		engineers.add(new Engineer("Stephen", "Dorrian", "Licensing Manager"));
 		engineers.add(new Engineer("Ryan", "Dorrian", "Senior Software Engineer"));
-		engineers.add(new Engineer("Chris", "Murray", "Principle Software Engineer"));
+		engineers.add(new Engineer("Chris", "Murray", "Principal Software Engineer"));
 		engineers.add(new Engineer("Angela", "Dorrian", "Delivery Lead"));
 		engineers.add(new Engineer("Colm", "McKevitt", "Senior Software Engineer"));
 		engineers.add(new Engineer("Graham", "Kelly", "Software Engineer"));
 		engineers.add(new Engineer("Sarah", "Murray", "Product Manager"));
 		engineers.add(new Engineer("David", "Best", "UX Designer"));
-		engineers.add(new Engineer("Marc", "Barbour", "Principle Software Engineer"));
+		engineers.add(new Engineer("Marc", "Barbour", "Principal Software Engineer"));
 		
 		repository.save(engineers);
 	}
